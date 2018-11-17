@@ -1,0 +1,3 @@
+This is a C library that I developed while I was learning data structures and algorithms. I did it to practise, and it was useful if I needed data structures for some small programs.
+
+This library contains structures and functions for manipulating binary srees, linked lists, doubly linked lists, stack implemented with nodes and with an array, buffer and circular buffer with nodes and sequential circular buffer, and also sequential queue.
